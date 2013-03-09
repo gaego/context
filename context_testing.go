@@ -14,7 +14,7 @@ import (
 	"net/http"
 
 	"appengine"
-	appenginetesting "github.com/tenntenn/gae-go-testing"
+	"github.com/icub3d/appenginetesting"
 )
 
 type Context appengine.Context
